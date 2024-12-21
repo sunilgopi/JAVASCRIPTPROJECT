@@ -1,6 +1,4 @@
-Here’s a more polished and professional version of the README for your Car Rental System project. The formatting has been improved for clarity, and additional sections, like "Future Enhancements" and "Screenshots," have been added to make it more engaging.
 
-```markdown
 # 🚗 Car Rental System
 
 Welcome to the **Car Rental System**! This project is designed to provide a seamless car rental experience for users. It features a user-friendly interface for customers to browse and book cars, and a robust dashboard for administrators to manage users, bookings, and inventory.
@@ -14,10 +12,9 @@ Welcome to the **Car Rental System**! This project is designed to provide a seam
 3. [Folder Structure](#folder-structure)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Screenshots](#screenshots)
-7. [Future Enhancements](#future-enhancements)
-8. [Contributing](#contributing)
-9. [License](#license)
+6. [Future Enhancements](#future-enhancements)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ---
 
@@ -109,20 +106,6 @@ CarRentalSystem/
 
 ---
 
-## 📸 Screenshots
-
-### Landing Page:
-![Landing Page](assets/screenshots/landing-page.png)
-
-### User Dashboard:
-![User Dashboard](assets/screenshots/user-dashboard.png)
-
-### Admin Dashboard:
-![Admin Dashboard](assets/screenshots/admin-dashboard.png)
-
-*(Replace these with actual screenshots of your application.)*
-
----
 
 ## 🚧 Future Enhancements
 
