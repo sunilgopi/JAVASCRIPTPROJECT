@@ -92,8 +92,9 @@ CarRentalSystem/
    ```
 
 3. **Open the Application**:
+```bash
    - https://sunilgopi.github.io/JAVASCRIPTPROJECT/JavaScriptProject/indexFiles/index.html
-
+```
 ---
 
 ## 🧑‍💻 Usage
