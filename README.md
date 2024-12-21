@@ -83,7 +83,7 @@ CarRentalSystem/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/car-rental-system.git
+   https://github.com/sunilgopi/JAVASCRIPTPROJECT.git
    ```
 
 2. **Navigate to the Project Directory**:
