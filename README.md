@@ -92,7 +92,7 @@ CarRentalSystem/
    ```
 
 3. **Open the Application**:
-   - Simply open `index.html` in your web browser to view the application.
+   - https://sunilgopi.github.io/JAVASCRIPTPROJECT/JavaScriptProject/indexFiles/index.html
 
 ---
 
